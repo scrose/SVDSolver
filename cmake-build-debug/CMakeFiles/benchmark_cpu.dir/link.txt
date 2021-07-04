@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -std=c++1z -Wall -O3 -Xpreprocessor -fopenmp -lomp -march=native -mavx -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/benchmark_cpu.dir/svd_cpu.cpp.o  -o benchmark_cpu 

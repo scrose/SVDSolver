@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="basesvd"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="svd_cpu">
+				<Option output="/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/svd_cpu" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 svd_cpu"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="svd_cpu/fast">
+				<Option output="/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/svd_cpu" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 svd_cpu/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/boutrous/Workspace/C++/csc586c-project-final-report/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/boutrous/Workspace/C++/csc586c-project-final-report/matrix.h">
+			<Option target="svd_cpu"/>
+		</Unit>
+		<Unit filename="/Users/boutrous/Workspace/C++/csc586c-project-final-report/svd_cpu.cpp">
+			<Option target="svd_cpu"/>
+		</Unit>
+		<Unit filename="/Users/boutrous/Workspace/C++/csc586c-project-final-report/svd_cpu.h">
+			<Option target="svd_cpu"/>
+		</Unit>
+		<Unit filename="/Users/boutrous/Workspace/C++/csc586c-project-final-report/svd_serial.h">
+			<Option target="svd_cpu"/>
+		</Unit>
+		<Unit filename="/Users/boutrous/Workspace/C++/csc586c-project-final-report/timing.h">
+			<Option target="svd_cpu"/>
+		</Unit>
+		<Unit filename="/Users/boutrous/Workspace/C++/csc586c-project-final-report/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

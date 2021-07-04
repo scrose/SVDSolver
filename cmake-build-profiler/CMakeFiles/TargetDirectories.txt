@@ -1,0 +1,5 @@
+/Users/boutrous/Workspace/C++/csc586c_svd/cmake-build-profiler/CMakeFiles/rebuild_cache.dir
+/Users/boutrous/Workspace/C++/csc586c_svd/cmake-build-profiler/CMakeFiles/edit_cache.dir
+/Users/boutrous/Workspace/C++/csc586c_svd/cmake-build-profiler/CMakeFiles/csc586c_svd_benchmarks.dir
+/Users/boutrous/Workspace/C++/csc586c_svd/cmake-build-profiler/CMakeFiles/csc586c_svd_tests.dir
+/Users/boutrous/Workspace/C++/csc586c_svd/cmake-build-profiler/CMakeFiles/csc586c_svd.dir

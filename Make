@@ -1,0 +1,16 @@
+#
+# "Makefile" for output
+# Executable file: main
+#
+
+CC = c++
+CXXFLAGS = -std=c++17 -g -Wall -O3 -Wno-c++11-extensions
+
+
+main: main.cpp
+	$(CC) $(CXXFLAGS) -o main main.cpp
+
+
+.PHONY clean:
+	clean:
+	rm -rf *.o *.exe *.out *.dSYM
